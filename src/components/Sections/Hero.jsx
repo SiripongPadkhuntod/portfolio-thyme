@@ -12,7 +12,7 @@ const Hero = () => {
                         Siripong Padkhuntod <span className="text-indigo-600">(Thyme)</span>
                     </h1>
                     <h2 className="text-2xl text-gray-700 mt-4">
-                        Software Developer | NetSuite ERP Specialist 2
+                        Software Developer | NetSuite ERP Specialist
                     </h2>
                     <p className="text-gray-600 mt-5 max-w-lg">
                         Turning complex business requirements into clean, scalable, and optimized code.
